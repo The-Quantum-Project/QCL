@@ -1,6 +1,7 @@
 # Quantum Computing Language
 
 Joshua Freedman, Thomas Steinholz
+
 Science Fair 2016
 
 ##Rationale
@@ -29,8 +30,11 @@ ________________________________________________________________________________
 
 
 [1] https://github.com
+
 [2] https://github.com/The-Quantum-Project
+
 [3] https://drive.google.com
+
 [4] https://drive.google.com/folderview?id=0B4D89DiD2y-jeHRNTk5UeUhtRE0&usp=sharing
 
 
