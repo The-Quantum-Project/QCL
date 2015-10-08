@@ -1,0 +1,15 @@
+|[
+
+]|
+public const class Class<T> {
+
+    |[
+        Only the Quantum Computing Runtime will create class objects.
+    ]|
+    private Class();
+
+    public String str() {
+        return "";
+    }
+
+}
