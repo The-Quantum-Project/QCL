@@ -1,1 +1,1 @@
-# Quantum Computing Language
+# Quantum Computing Language [![Coverage Status](https://coveralls.io/repos/The-Quantum-Project/QCL/badge.svg?branch=master&service=github)](https://coveralls.io/github/The-Quantum-Project/QCL?branch=master)
